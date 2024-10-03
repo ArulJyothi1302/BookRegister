@@ -1,3 +1,4 @@
 /build/
-src/main/java/com/**/*.java
+/src/main/java/com/bookServlet/BooklistServlet.java
+
 
